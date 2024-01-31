@@ -1,3 +1,4 @@
+# Chrome Info Grabber by Denzersn
 This is a Password, History and Card Stealer for the Chrome Browser.
 
 This Software is only for academic use and should not be used for criminal circumstances.
